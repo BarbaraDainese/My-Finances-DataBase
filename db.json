@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Comida"
+    },
+    {
+      "id": 2,
+      "name": "Lazer"
+    },
+    {
+      "id": 3,
+      "name": "Supermercado"
+    },
+    {
+      "id": 4,
+      "name": "Transporte"
+    },
+    {
+      "id": 5,
+      "name": "Jogos"
+    },
+    {
+      "id": 6,
+      "name": "Farmácia"
+    },
+    {
+      "id": 7,
+      "name": "Roupas"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 10,
+      "description": "raquete",
+      "value": 400,
+      "category": "Lazer",
+      "date": 1657889619506
+    },
+    {
+      "description": "macarrão",
+      "value": 5,
+      "category": "Supermercado",
+      "date": 1658231278399,
+      "id": 11
+    },
+    {
+      "description": "teste",
+      "value": 1,
+      "category": "Comida",
+      "date": 1658234843157,
+      "id": 12
+    },
+    {
+      "description": "Casaco",
+      "value": 100,
+      "category": "Roupas",
+      "date": 1658317370402,
+      "id": 13
+    },
+    {
+      "description": "Pão",
+      "value": 5,
+      "category": "Comida",
+      "date": 1658318092450,
+      "id": 14
+    },
+    {
+      "description": "Açucar",
+      "value": 5,
+      "category": "Supermercado",
+      "date": 1658318181233,
+      "id": 15
+    },
+    {
+      "description": "c",
+      "value": 12,
+      "category": "Comida",
+      "date": 1658328539980,
+      "id": 16
+    }
+  ]
+}
